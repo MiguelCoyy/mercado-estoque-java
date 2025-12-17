@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jccor/OneDrive/Documents/NetBeansProjects/MercadoEstoqueRefatorado/src/repository/ProdutoRepository.java</file>
+            <file>file:/C:/Users/jccor/OneDrive/Documents/NetBeansProjects/MercadoEstoqueRefatorado/src/service/ProdutoService.java</file>
+            <file>file:/C:/Users/jccor/OneDrive/Documents/NetBeansProjects/MercadoEstoqueRefatorado/src/model/Produto.java</file>
+            <file>file:/C:/Users/jccor/OneDrive/Documents/NetBeansProjects/MercadoEstoqueRefatorado/src/util/ConnectionFactory.java</file>
+            <file>file:/C:/Users/jccor/OneDrive/Documents/NetBeansProjects/MercadoEstoqueRefatorado/src/main/Main.java</file>
+            <file>file:/C:/Users/jccor/OneDrive/Documents/NetBeansProjects/MercadoEstoqueRefatorado/src/service/EstoqueService.java</file>
+            <file>file:/C:/Users/jccor/OneDrive/Documents/NetBeansProjects/MercadoEstoqueRefatorado/src/controller/ProdutoController.java</file>
+        </group>
+    </open-files>
+</project-private>
